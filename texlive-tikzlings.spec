@@ -1,6 +1,6 @@
 Name:		texlive-tikzlings
 Version:	63628
-Release:	1
+Release:	2
 Summary:	A collection of cute little animals and similar creatures
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikzlings
