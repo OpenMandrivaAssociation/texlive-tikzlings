@@ -3,7 +3,7 @@ Version:	63628
 Release:	2
 Summary:	A collection of cute little animals and similar creatures
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikzlings
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tikzlings
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikzlings.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikzlings.doc.r%{version}.tar.xz
